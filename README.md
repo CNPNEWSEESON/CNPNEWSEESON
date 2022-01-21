@@ -73,8 +73,8 @@ Owner on [CNP Community](https://discord.gg/cwtjSfD6fv)
 <p align="left">
 <a href="https://discord.gg/cwtjSfD6fv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cwtjSfD6fv" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ToonGamer&show_icons=true&locale=en&layout=compact" alt="ToonGamer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CNPNEWSEESON&show_icons=true&locale=en&layout=compact" alt="CNPNEWSEESON" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ToonGamer&show_icons=true&locale=en" alt="ToonGamer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CNPNEWSEESON&show_icons=true&locale=en" alt="CNPNEWSEESON" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ToonGamer&" alt="ToonGamer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CNPNEWSEESON&" alt="CNPNEWSEESON" /></p>
