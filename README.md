@@ -7,7 +7,7 @@ Owner on [CNP Community](https://discord.gg/cwtjSfD6fv)
   
 ![](https://komarev.com/ghpvc/?username=KopzazaTH&color=00e5ff)
 
-**Chanaphon#3537**
+**Chanaphon#9999**
 
 <p align="center">
    <img align="center" src="https://media.discordapp.net/attachments/680449178626818065/911924615805280256/20210818_161708-1.gif" alt="Chanaphon" />
